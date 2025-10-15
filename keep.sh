@@ -5,7 +5,7 @@ EMAIL="r0f8c@tiffincrane.com"   # 登录邮箱
 PASSWORD="sdier6DNF@tK"     # 登录密码
 
 # 要保活的URL列表,多个用英文空格分隔
-URLS="https://xxxx.cfapps.ap21.hana.ondemand.com https://xxxx.cfapps.us10-001.hana.ondemand.com"  
+URLS="https://xxxx.cfapps.ap21.hana.ondemand.com https://free-usarqhvv.cfapps.us10-001.hana.ondemand.com"  
 
 # 颜色定义
 green() {
