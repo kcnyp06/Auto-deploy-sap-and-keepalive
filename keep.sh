@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # 环境变量配置
-EMAIL="r0f8c@tiffincrane.com"   # 登录邮箱
-PASSWORD="sdier6DNF@tK"     # 登录密码
+EMAIL=""   # 登录邮箱
+PASSWORD=""     # 登录密码
 
 # 要保活的URL列表,多个用英文空格分隔
 URLS="https://xxxx.cfapps.ap21.hana.ondemand.com https://free-usarqhvv.cfapps.us10-001.hana.ondemand.com"  
